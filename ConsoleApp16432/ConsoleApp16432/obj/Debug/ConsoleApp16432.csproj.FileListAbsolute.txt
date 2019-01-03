@@ -1,0 +1,6 @@
+C:\Users\H39J61\source\repos\ConsoleApp16432\ConsoleApp16432\obj\Debug\ConsoleApp16432.csproj.CoreCompileInputs.cache
+C:\Users\H39J61\source\repos\ConsoleApp16432\ConsoleApp16432\bin\Debug\ConsoleApp16432.exe.config
+C:\Users\H39J61\source\repos\ConsoleApp16432\ConsoleApp16432\bin\Debug\ConsoleApp16432.exe
+C:\Users\H39J61\source\repos\ConsoleApp16432\ConsoleApp16432\bin\Debug\ConsoleApp16432.pdb
+C:\Users\H39J61\source\repos\ConsoleApp16432\ConsoleApp16432\obj\Debug\ConsoleApp16432.exe
+C:\Users\H39J61\source\repos\ConsoleApp16432\ConsoleApp16432\obj\Debug\ConsoleApp16432.pdb
