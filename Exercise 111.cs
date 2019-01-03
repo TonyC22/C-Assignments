@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Exercise1
+namespace Exercise111
 {
-    class Exercise1
+    class Exercise111
     {
         public static int SumItself(int number) {
             return number + number;
