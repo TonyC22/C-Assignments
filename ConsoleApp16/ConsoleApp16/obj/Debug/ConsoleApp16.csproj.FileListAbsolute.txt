@@ -1,6 +1,0 @@
-C:\Users\H39J61\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\ConsoleApp16.csproj.CoreCompileInputs.cache
-C:\Users\H39J61\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\ConsoleApp16.exe.config
-C:\Users\H39J61\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\ConsoleApp16.exe
-C:\Users\H39J61\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\ConsoleApp16.pdb
-C:\Users\H39J61\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\ConsoleApp16.exe
-C:\Users\H39J61\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\ConsoleApp16.pdb

@@ -1,0 +1,7 @@
+C:\Users\H39J61\source\repos\exercisee\exercisee\obj\Debug\exercisee.csprojAssemblyReference.cache
+C:\Users\H39J61\source\repos\exercisee\exercisee\obj\Debug\exercisee.csproj.CoreCompileInputs.cache
+C:\Users\H39J61\source\repos\exercisee\exercisee\bin\Debug\exercisee.exe.config
+C:\Users\H39J61\source\repos\exercisee\exercisee\bin\Debug\exercisee.exe
+C:\Users\H39J61\source\repos\exercisee\exercisee\bin\Debug\exercisee.pdb
+C:\Users\H39J61\source\repos\exercisee\exercisee\obj\Debug\exercisee.exe
+C:\Users\H39J61\source\repos\exercisee\exercisee\obj\Debug\exercisee.pdb

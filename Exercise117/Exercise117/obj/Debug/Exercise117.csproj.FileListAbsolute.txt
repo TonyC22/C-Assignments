@@ -1,0 +1,6 @@
+C:\Users\H39J61\source\repos\Exercise117\Exercise117\bin\Debug\Exercise117.exe.config
+C:\Users\H39J61\source\repos\Exercise117\Exercise117\bin\Debug\Exercise117.exe
+C:\Users\H39J61\source\repos\Exercise117\Exercise117\bin\Debug\Exercise117.pdb
+C:\Users\H39J61\source\repos\Exercise117\Exercise117\obj\Debug\Exercise117.csproj.CoreCompileInputs.cache
+C:\Users\H39J61\source\repos\Exercise117\Exercise117\obj\Debug\Exercise117.exe
+C:\Users\H39J61\source\repos\Exercise117\Exercise117\obj\Debug\Exercise117.pdb

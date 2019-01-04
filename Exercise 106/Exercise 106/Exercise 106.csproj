@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7F53778E-5219-4D38-88BC-ADCB814D138C}</ProjectGuid>
+    <ProjectGuid>{2AB04F1D-C39D-4971-9517-367708B896C7}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Exercise_106</RootNamespace>
     <AssemblyName>Exercise 106</AssemblyName>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\..\..\Desktop\Exercise 106.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

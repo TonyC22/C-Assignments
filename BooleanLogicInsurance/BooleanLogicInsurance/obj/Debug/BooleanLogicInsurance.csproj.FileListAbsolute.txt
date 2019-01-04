@@ -1,0 +1,7 @@
+C:\Users\H39J61\source\repos\BooleanLogicInsurance\BooleanLogicInsurance\bin\Debug\BooleanLogicInsurance.exe.config
+C:\Users\H39J61\source\repos\BooleanLogicInsurance\BooleanLogicInsurance\bin\Debug\BooleanLogicInsurance.exe
+C:\Users\H39J61\source\repos\BooleanLogicInsurance\BooleanLogicInsurance\bin\Debug\BooleanLogicInsurance.pdb
+C:\Users\H39J61\source\repos\BooleanLogicInsurance\BooleanLogicInsurance\obj\Debug\BooleanLogicInsurance.csprojAssemblyReference.cache
+C:\Users\H39J61\source\repos\BooleanLogicInsurance\BooleanLogicInsurance\obj\Debug\BooleanLogicInsurance.csproj.CoreCompileInputs.cache
+C:\Users\H39J61\source\repos\BooleanLogicInsurance\BooleanLogicInsurance\obj\Debug\BooleanLogicInsurance.exe
+C:\Users\H39J61\source\repos\BooleanLogicInsurance\BooleanLogicInsurance\obj\Debug\BooleanLogicInsurance.pdb

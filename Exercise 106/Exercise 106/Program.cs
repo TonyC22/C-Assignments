@@ -37,7 +37,7 @@ namespace Exercise_106
                 }
                 Console.WriteLine("Program has exited the try/catch block");
             }
-            
+
         }
 
     }

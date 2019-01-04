@@ -1,0 +1,6 @@
+C:\Users\H39J61\source\repos\Lists and Loops Exercise\Lists and Loops Exercise\obj\Debug\Lists and Loops Exercise.csproj.CoreCompileInputs.cache
+C:\Users\H39J61\source\repos\Lists and Loops Exercise\Lists and Loops Exercise\bin\Debug\Lists and Loops Exercise.exe.config
+C:\Users\H39J61\source\repos\Lists and Loops Exercise\Lists and Loops Exercise\bin\Debug\Lists and Loops Exercise.exe
+C:\Users\H39J61\source\repos\Lists and Loops Exercise\Lists and Loops Exercise\bin\Debug\Lists and Loops Exercise.pdb
+C:\Users\H39J61\source\repos\Lists and Loops Exercise\Lists and Loops Exercise\obj\Debug\Lists and Loops Exercise.exe
+C:\Users\H39J61\source\repos\Lists and Loops Exercise\Lists and Loops Exercise\obj\Debug\Lists and Loops Exercise.pdb
