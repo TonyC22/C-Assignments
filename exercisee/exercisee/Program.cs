@@ -1,33 +1,20 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace ConsoleApp11
+
+class Program
 {
-    class Program
+    static void Main()
     {
-        static void Main(string[] args)
-        {
-            //string Name = "Tony";
-            //string Job = "Nope";
-            //string work = "Better get to work then.";
+        int[] numArray = new int[5];
+        numArray[0] = 2;
+        numArray[1] = 515;
+        numArray[2] = 2;
+        numArray[3] = 12;
+        numArray[4] = 15;
 
-            //string Concatenate = "Do you, " + Name +  ", Have a Job? " + Job + ". \n " + work ;
-            //Concatenate = Concatenate.ToUpper();
-            //Console.WriteLine(Concatenate);
-            //Console.ReadLine();
-
-
-            StringBuilder sb = new StringBuilder();
-            sb.Append("How much wood \n Could a wood chuck chuck \n if a wood chuck \n could chuck wood");
-            Console.WriteLine(sb);
-            Console.ReadLine();
-
-
-
-
-        }
+        Console.WriteLine(numArray[4]);
+        Console.ReadLine();
     }
 }
+
