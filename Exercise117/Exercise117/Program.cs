@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Exercise5
+namespace Exercise117
 {
-    class Exercise5
+    class Exercise117
     {
         public void Divide(int i)
         {
@@ -19,11 +19,11 @@ namespace Exercise5
         }
     }
 
-    static class Exercise5Test
+    static class Exercise117Test
     {
         static void Main(string[] args)
         {
-            Exercise5 ex = new Exercise5();
+            Exercise117 ex = new Exercise117();
 
             Console.WriteLine("Input a number: ");
             String s = Console.ReadLine();
