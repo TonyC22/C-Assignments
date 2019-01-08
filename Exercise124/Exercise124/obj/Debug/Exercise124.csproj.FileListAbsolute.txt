@@ -1,0 +1,7 @@
+C:\Users\H39J61\source\repos\Exercise124\Exercise124\bin\Debug\Exercise124.exe.config
+C:\Users\H39J61\source\repos\Exercise124\Exercise124\bin\Debug\Exercise124.exe
+C:\Users\H39J61\source\repos\Exercise124\Exercise124\bin\Debug\Exercise124.pdb
+C:\Users\H39J61\source\repos\Exercise124\Exercise124\obj\Debug\Exercise124.csprojAssemblyReference.cache
+C:\Users\H39J61\source\repos\Exercise124\Exercise124\obj\Debug\Exercise124.csproj.CoreCompileInputs.cache
+C:\Users\H39J61\source\repos\Exercise124\Exercise124\obj\Debug\Exercise124.exe
+C:\Users\H39J61\source\repos\Exercise124\Exercise124\obj\Debug\Exercise124.pdb
