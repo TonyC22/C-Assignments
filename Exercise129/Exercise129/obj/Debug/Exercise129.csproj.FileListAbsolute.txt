@@ -1,0 +1,7 @@
+C:\Users\H39J61\source\repos\Exercise129\Exercise129\bin\Debug\Exercise129.exe.config
+C:\Users\H39J61\source\repos\Exercise129\Exercise129\bin\Debug\Exercise129.exe
+C:\Users\H39J61\source\repos\Exercise129\Exercise129\bin\Debug\Exercise129.pdb
+C:\Users\H39J61\source\repos\Exercise129\Exercise129\obj\Debug\Exercise129.csprojAssemblyReference.cache
+C:\Users\H39J61\source\repos\Exercise129\Exercise129\obj\Debug\Exercise129.csproj.CoreCompileInputs.cache
+C:\Users\H39J61\source\repos\Exercise129\Exercise129\obj\Debug\Exercise129.exe
+C:\Users\H39J61\source\repos\Exercise129\Exercise129\obj\Debug\Exercise129.pdb
