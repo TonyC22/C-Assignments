@@ -1,0 +1,7 @@
+C:\Users\H39J61\source\repos\Exercise140\Exercise140\bin\Debug\Exercise140.exe.config
+C:\Users\H39J61\source\repos\Exercise140\Exercise140\bin\Debug\Exercise140.exe
+C:\Users\H39J61\source\repos\Exercise140\Exercise140\bin\Debug\Exercise140.pdb
+C:\Users\H39J61\source\repos\Exercise140\Exercise140\obj\Debug\Exercise140.csprojAssemblyReference.cache
+C:\Users\H39J61\source\repos\Exercise140\Exercise140\obj\Debug\Exercise140.csproj.CoreCompileInputs.cache
+C:\Users\H39J61\source\repos\Exercise140\Exercise140\obj\Debug\Exercise140.exe
+C:\Users\H39J61\source\repos\Exercise140\Exercise140\obj\Debug\Exercise140.pdb
