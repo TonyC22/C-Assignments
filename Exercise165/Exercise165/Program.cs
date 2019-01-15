@@ -19,7 +19,6 @@ namespace Exercise165
                     {
                         throw new InvalidAgeException(string.Format("Please enter your real age."));
                     }
-
                     DateTime userBirthDate = DateTime.Now.AddYears(-userAge);
                     Console.WriteLine("You were born in " + userBirthDate.ToString("yyyy"));
                     Console.ReadLine();
