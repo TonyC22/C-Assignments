@@ -1,0 +1,16 @@
+﻿@using InsuranceExercise.Models
+@model List<InsuranceBuyerProcessed>
+
+@{
+    ViewBag.Title = "Buyer Estimate";
+}
+
+@{
+    var last = Model.Last();
+}
+
+<div id="quoteJumbo" class="jumbotron">
+    <h2 class="display-4">Your Insurance Estimate came out to $@Html.DisplayFor(modelItem => last.FinalQuote)!</h2>
+</div>
+
+
