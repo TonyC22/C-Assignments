@@ -1,0 +1,7 @@
+C:\Users\H39J61\source\repos\FinalExercise\FinalExercise\bin\Debug\FinalExercise.exe.config
+C:\Users\H39J61\source\repos\FinalExercise\FinalExercise\bin\Debug\FinalExercise.exe
+C:\Users\H39J61\source\repos\FinalExercise\FinalExercise\bin\Debug\FinalExercise.pdb
+C:\Users\H39J61\source\repos\FinalExercise\FinalExercise\obj\Debug\FinalExercise.csprojAssemblyReference.cache
+C:\Users\H39J61\source\repos\FinalExercise\FinalExercise\obj\Debug\FinalExercise.csproj.CoreCompileInputs.cache
+C:\Users\H39J61\source\repos\FinalExercise\FinalExercise\obj\Debug\FinalExercise.exe
+C:\Users\H39J61\source\repos\FinalExercise\FinalExercise\obj\Debug\FinalExercise.pdb
